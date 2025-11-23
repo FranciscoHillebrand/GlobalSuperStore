@@ -50,7 +50,7 @@ El resultado final permite una visión 360° de la operación.
 
 | Mockup Inicial (Diseño) | Dashboard Final (Google Sheets) |
 |:---:|:---:|
-| ![Mockup](image_214698.png) | ![Dashboard Final](image_21465b.png) |
+| ![Mockup](Imagenes/Mockup.png) | ![Dashboard Final](Imagenes/Dashboard.png) |
 *(El dashboard permite filtrar por mercado, segmento y periodo)*
 
 ## 💡 Insights Clave y Hallazgos de Negocio
