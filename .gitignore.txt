@@ -1,0 +1,13 @@
+# --- Archivos Temporales de Office (Excel/PowerPoint) ---
+# Ignora los archivos de bloqueo (empiezan con ~$)
+~$*
+*.tmp
+
+# --- Archivos de Sistema (Windows) ---
+desktop.ini
+Thumbs.db
+$RECYCLE.BIN/
+
+# --- Logs y Configuración ---
+*.log
+.DS_Store
