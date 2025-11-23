@@ -89,4 +89,3 @@ Tras el procesamiento y análisis de los datos (2013-2014), se presentaron las s
 
 ---
 **Autor:** Francisco Javier Hillebrand
-[LinkedIn](Tu_Link_Aquí) | [Portafolio](Tu_Link_Aquí)
